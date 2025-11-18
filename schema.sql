@@ -7,3 +7,4 @@ CREATE TABLE enrollment (
     student_id INT,
     class_id INT
 );
+CREATE TABLE department_table (dept_id INT, dept_name VARCHAR(50));
