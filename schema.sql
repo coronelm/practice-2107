@@ -14,3 +14,4 @@ CREATE TABLE Grades_Table (grade_id INT, student_id INT, grade INT
 >>>>>>> e74ba236a27011234edc67877f15bb4400541a94
 CREATE TABLE Attendance_Table(attendance_id INT, student_id INT, date DATE, status VARCHAR(20))
 CREATE TABLE Users_Table(user_id INT, username VARCHAR(50), password VARCHAR(50), role VARCHAR(50))
+INSERT INTO Users_Table (user_id, username, password, role) VALUES (2107, 'justin', 'justin123', 'Student';
