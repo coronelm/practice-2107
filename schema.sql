@@ -12,3 +12,4 @@ CREATE TABLE department_table (dept_id INT, dept_name VARCHAR(50));
 =======
 CREATE TABLE Grades_Table (grade_id INT, student_id INT, grade INT
 >>>>>>> e74ba236a27011234edc67877f15bb4400541a94
+CREATE TABLE Attendance_Table(attendance_id INT, student_id INT, date DATE, status VARCHAR(20))
