@@ -7,3 +7,4 @@ CREATE TABLE enrollment (
     student_id INT,
     class_id INT
 );
+CREATE TABLE Grades_Table (grade_id INT, student_id INT, grade INT
